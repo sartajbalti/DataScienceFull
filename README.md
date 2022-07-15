@@ -2,11 +2,10 @@
  DataScienceWithPython
 
 ## Get started with Data Science with Python
-An engaging journey to become a [Data Scientist](https://www.learnpythonwithrune.org/data-science-2/) with Python
+An engaging journey to become a Data Scientist
 
 ## TL;DR
-- Download all Jupyter Notebooks from repo ([zip-file-download](https://github.com/LearnPythonWithRune/DataScienceWithPython/archive/refs/heads/main.zip)).
-- Unzip download (main.zip) an appropriate place.
+
 - Launch Ananconda and start JuPyter Notebook ([Install it from here if needed](https://www.anaconda.com/products/individual))
 - Open the first Notebook from download.
 - Start watching the first video lesson ([YouTube](https://localhost)).
@@ -22,12 +21,9 @@ An engaging journey to become a [Data Scientist](https://www.learnpythonwithrune
   - NumPy
   - PyTorch
 
-*...and the list could go on and we didn't dive into sub-categories (but you get the point)*
-
-**DISCLAIMER!!!** ***This is the wrong (long) way to learn!***
 
 ## Master the Data Science Workflow
-![Data Science Workflow](img/ds-workflow.png)
+
 - Understanding what matters
   - The full workflow
   - How to add value to customers
@@ -54,7 +50,7 @@ This course will cover all aspects of it with the focus to get you there as fast
 - Machine Learning Models
   - Linear Regression
   - Classification
-  - ...also check out the [Machine Learning Course](https://www.learnpythonwithrune.org/machine-learning/)
+ 
 - Cleaning Data
 - Feature Scaling
 - Feature Selection
